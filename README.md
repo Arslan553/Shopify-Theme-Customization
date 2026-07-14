@@ -36,8 +36,6 @@ This repository showcases my expertise in customizing Shopify themes to create m
 - CSS3
 - JavaScript
 - JSON
-- Git
-- GitHub
 
 ---
 
@@ -99,20 +97,6 @@ Responsive Contact Us page with a clean interface and user-friendly experience.
 - Impulse Theme
 - Custom Shopify Themes
 - Shopify Liquid Development
-
----
-
-# 📁 Repository Structure
-
-```text
-Shopify-Theme-Customization
-│
-├── README.md
-├── Home-page.png
-├── product page.png
-├── About-Us.png
-├── Contact-us.png
-```
 
 ---
 
