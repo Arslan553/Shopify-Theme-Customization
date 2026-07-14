@@ -93,8 +93,8 @@ Responsive Contact Us page with a clean interface and user-friendly experience.
 - Sense Theme
 - Refresh Theme
 - Craft Theme
-- Prestige Theme
-- Impulse Theme
+- Shrine Theme
+- Horizon Theme
 - Custom Shopify Themes
 - Shopify Liquid Development
 
