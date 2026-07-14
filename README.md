@@ -1,180 +1,130 @@
 # 🎨 Shopify Theme Customization
 
-> Professional Shopify Theme Customization Portfolio | Liquid Development | Responsive Design | UI/UX Enhancement
+> Professional Shopify Theme Customization Portfolio | Shopify Liquid | Responsive Design | UI/UX Enhancement
 
 ---
 
 # 🚀 About
 
-Welcome to my Shopify Theme Customization portfolio!
+Welcome to my Shopify Theme Customization portfolio.
 
-I specialize in transforming standard Shopify themes into high-performing, visually appealing, and conversion-focused eCommerce experiences. With over **3 years of experience** in Shopify development, I help businesses customize their stores to match their brand identity while improving user experience, mobile responsiveness, and overall store performance.
-
-My expertise includes custom Shopify Liquid development, advanced theme customization, responsive layouts, performance optimization, and creating modern storefronts that drive more sales.
+This repository showcases my expertise in customizing Shopify themes to create modern, responsive, and high-converting eCommerce stores. I specialize in Shopify Liquid development, custom sections, responsive layouts, performance optimization, and user-friendly storefronts that enhance the shopping experience.
 
 ---
 
 # 💼 Services
 
-✅ Shopify Theme Installation
-
-✅ Shopify Theme Customization
-
-✅ Shopify Liquid Development
-
-✅ Custom Sections
-
-✅ Custom Blocks
-
-✅ Header & Footer Customization
-
-✅ Homepage Customization
-
-✅ Product Page Customization
-
-✅ Collection Page Customization
-
-✅ Cart & Checkout Optimization
-
-✅ Landing Page Design
-
-✅ Mobile Responsive Design
-
-✅ Speed Optimization
-
-✅ Shopify App Integration
+- Shopify Theme Setup
+- Shopify Theme Customization
+- Shopify Liquid Development
+- Homepage Customization
+- Product Page Customization
+- Collection Page Customization
+- Header & Footer Customization
+- Mobile Responsive Design
+- Speed Optimization
+- App Integration
+- Custom Sections & Blocks
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Tech Stack
 
 - Shopify
 - Shopify Liquid
 - HTML5
 - CSS3
+- JavaScript
 - JSON
+- Git
+- GitHub
+
 ---
 
 # 📂 Theme Customization Projects
 
-## 🏪 Homepage Customization
+## 🏠 Homepage
 
-Modern Shopify homepage designed with responsive sections, optimized layouts, and conversion-focused elements.
+Custom Shopify homepage designed with a clean layout, responsive sections, and conversion-focused structure.
 
-![Homepage](Images/homepage.png)
-
----
-
-## 🛍 Product Page Customization
-
-Custom product page with improved layout, trust badges, sticky add-to-cart, and enhanced product information.
-
-![Product Page](Images/product-page.png)
+<img src="Home-page.png" width="100%">
 
 ---
 
-## 📦 Collection Page
+## 🛍 Product Page
 
-Optimized collection pages with better filtering, sorting, and responsive product grids.
+Professional product page with optimized layout, trust-building design, and enhanced shopping experience.
 
-![Collection Page](Images/collection-page.png)
+<img src="product%20page.png" width="100%">
 
 ---
 
-## 📱 Mobile Responsive Design
+## 👥 About Us Page
 
-Fully responsive Shopify store optimized for mobile, tablet, and desktop devices.
+Modern About Us page designed to build trust and strengthen brand identity.
 
-![Mobile View](Images/mobile-view.png)
+<img src="About-Us.png" width="100%">
+
+---
+
+## 📞 Contact Us Page
+
+Responsive Contact Us page with a clean interface and user-friendly experience.
+
+<img src="Contact-us.png" width="100%">
 
 ---
 
 # ⚡ Theme Features
 
 - Responsive Design
+- Mobile Optimized
 - Clean Code Structure
-- Fast Loading Speed
 - SEO-Friendly Development
+- Fast Loading Speed
 - Custom Liquid Sections
-- Dynamic Content
-- Advanced Theme Settings
-- Optimized User Experience
+- User-Friendly Layout
+- Conversion-Focused Design
 - Cross-Browser Compatibility
 
 ---
 
-# 🧩 Theme Customization Expertise
+# 🎯 My Expertise
 
 - Dawn Theme
 - Sense Theme
 - Refresh Theme
 - Craft Theme
-- Impulse Theme
 - Prestige Theme
-- Warehouse Theme
+- Impulse Theme
 - Custom Shopify Themes
-
----
-
-# 📈 What I Deliver
-
-✔ Professional Shopify Store Design
-
-✔ Pixel-Perfect Theme Customization
-
-✔ Mobile Optimization
-
-✔ Clean & Maintainable Code
-
-✔ Fast Performance
-
-✔ User-Friendly Experience
-
-✔ Conversion-Focused Design
-
----
-
-# 📸 Screenshots
-
-Add screenshots of your completed Shopify stores inside the **Images** folder and display them here.
-
-Example:
-
-- Homepage
-- Product Page
-- Collection Page
-- Cart Page
-- Mobile View
+- Shopify Liquid Development
 
 ---
 
 # 📁 Repository Structure
 
-```
+```text
 Shopify-Theme-Customization
 │
 ├── README.md
-├── Images
-├── Sections
-├── Snippets
-├── Assets
-└── Documentation
+├── Home-page.png
+├── product page.png
+├── About-Us.png
+├── Contact-us.png
 ```
 
 ---
 
 # 📞 Contact
 
-📧 Email: your-email@example.com
+📧 Email: arslannadeem0335@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-arslan-nadeem-531168392/)
 
-🌐 Portfolio: https://yourportfolio.com
-
----
 
 # ⭐ Thank You
 
 Thank you for visiting my Shopify Theme Customization portfolio.
 
-If you're looking for a Shopify Expert who can create professional, responsive, and high-converting Shopify stores, feel free to connect with me.
+If you're looking for a Shopify Expert to customize your Shopify store with clean code, responsive design, and conversion-focused solutions, feel free to connect with me.
