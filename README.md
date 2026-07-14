@@ -1,5 +1,4 @@
 # 🎨 Shopify Theme Customization
-
 > Professional Shopify Theme Customization Portfolio | Shopify Liquid | Responsive Design | UI/UX Enhancement
 
 ---
